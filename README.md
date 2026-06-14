@@ -1,6 +1,6 @@
 # Hacker News Trends Tracker
 
-A data pipeline that fetches stories from the Hacker News API and stores them in a PostgreSQL database for analysis.
+Data pipeline that fetches Hacker News stories and stores them in PostgreSQL for trend analysis.
 
 ## What it does
 
